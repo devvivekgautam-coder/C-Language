@@ -9,7 +9,7 @@ int main()
     switch (day)
     {
     case 1:
-        printf("It's Mnnday\n");
+        printf("It's Monday\n");
         break;
 
     case 2:
